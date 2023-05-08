@@ -16,4 +16,11 @@ const baseUrl = 'https://swapi.co/api';
 
 const sum = (a, b) => `Sum: ${a + b}`;
 
-console.log(sum(1,3));
+console.log(sum(1, 3));
+
+const result = `
+Sarah: 1
+Peter: 2
+`;
+
+console.log(result);
