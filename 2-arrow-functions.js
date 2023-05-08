@@ -13,3 +13,6 @@ console.log(greet());
 function greet() {
   return 'Hey there!  ';
 }
+
+const greet2 = () => 'Hey there again.';
+console.log(greet2());
