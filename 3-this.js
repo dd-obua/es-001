@@ -1,5 +1,7 @@
 'use strict';
 
+var radius = 5;
+
 const shape = {
   radius: 10,
   diameter() {
